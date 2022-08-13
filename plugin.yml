@@ -1,0 +1,12 @@
+main: messager.MessageBase
+name: JavaMessage
+version: 1.0
+description: Messaging plugin
+Author: _NickV
+commands:
+  msg:
+    description: Message a player
+    aliases: [m]
+  reply:
+    description: Reply to a message
+    aliases: [r]
